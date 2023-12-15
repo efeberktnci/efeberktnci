@@ -21,7 +21,5 @@ I am an English teacher who has been passionate about computers since I was 4 ye
 My future plans include learning:
 - C#
 - C++
-- Javascript
-- React
 
 Also, I am developing some projects related to E-commerce websites, which you can check out in my workspaces. See you soon with new computer languages here... bye! 👋
