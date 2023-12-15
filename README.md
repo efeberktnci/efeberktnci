@@ -1,6 +1,11 @@
-# Hi there, I'm Efeberk! 👋
 
-I'm an English teacher with a lifelong passion for computers, starting from the age of 4. Currently residing in Eskişehir, Turkey, I've embarked on a journey into the world of programming languages and development.
+Hey there, Efeberk! 👋 Exciting times as an English teacher diving deep into the coding world! 🚀 Currently rocking HTML, CSS, JavaScript, React, and React Native. 🌐
+
+Passionate about bringing e-commerce concepts to life through code! From UI design to seamless transaction flows, it's all about that perfect user experience. Check out my projects in the repos! 🛍️💻
+
+And guess what's on the horizon? Game development! 🎮 Monthly updates coming your way as I tackle new languages and tech. Stay tuned for coding adventures! 👋
+
+But wait, there's more! Future plans include crafting clones of social media platforms like YouTube, Telegram, and Spotify. 🚀 Imagine the thrill of recreating the essence of these giants through my coding expertise! Exciting times ahead. Join me on this journey!
 
 ## My Skills
 
@@ -9,31 +14,15 @@ I'm an English teacher with a lifelong passion for computers, starting from the 
 - JavaScript
 - React
 - React Native
+  
 
-## Exciting Future Plans 🚀
-
-I can't wait to expand my knowledge and skills further. Here's what's on my learning roadmap:
-
-- C#
-- C++
-- Unreal Engine 5
-- Unity
-
-My goal is to develop games, and I'm particularly excited about diving into Unreal Engine 5 and Unity. Wish me luck! 😀
-
-## Projects
-
-I've been actively working on various projects, including:
-
-- [Todo-Application](link-to-todo-app) - JavaScript
-- [react-noteapp-website](link-to-react-noteapp) - JavaScript
-- [react-router-dom-project](link-to-react-router-dom) - JavaScript
-- [Mp3-and-Mp4-Player](link-to-mp3-mp4-player) - JavaScript
-- [Responsive-EstateWebsite-BootStrap](link-to-responsive-estate-website) - HTML
-- [E-Commerce-Website](link-to-e-commerce-website) - HTML
-
-Feel free to check them out in my repositories!
+## My Interests
+ 
+My interest in coding goes beyond software; it extends to a particular enthusiasm for e-commerce projects. From crafting web interfaces to developing mobile applications, I find joy in bringing e-commerce concepts to life through code. Being involved in every stage, from designing user interfaces to establishing seamless transaction flows, makes shaping these projects an enjoyable experience.
+  
 
 ## What's Next?
 
 I'm on a journey to master new languages and technologies, with a particular focus on game development. Stay tuned for monthly updates in this README as I continue to share my progress and experiences. See you soon with new adventures in coding! 👋
+
+Feel free to check my repositories !
