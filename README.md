@@ -12,6 +12,7 @@ But wait, there's more! Future plans include crafting clones of social media pla
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - React
 - React Native
   
