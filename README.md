@@ -1,25 +1,39 @@
-### Hi there, My Name Is Efeberk 👋
+# Hi there, I'm Efeberk! 👋
 
-<!--
-**efeberktnci/efeberktnci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an English teacher with a lifelong passion for computers, starting from the age of 4. Currently residing in Eskişehir, Turkey, I've embarked on a journey into the world of programming languages and development.
 
-Here are some ideas to get you started:
+## My Skills
 
--  I am an English teacher who has been passionate about computers since I was 4 years old.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- React
+- React Native
 
+## Exciting Future Plans 🚀
 
+I can't wait to expand my knowledge and skills further. Here's what's on my learning roadmap:
 
-I am an English teacher who has been passionate about computers since I was 4 years old. I live in Eskişehir, Turkey. I started learning about programming languages and development. For now, I know HTML and CSS, but I can't wait to learn more languages, and I am really excited about it. I'm also planning to develop games in the future using Unreal Engine 5 or Unity. So wish me luck 😀. I will update this readme file every month to inform you more about me 😉.
-
-My future plans include learning:
 - C#
 - C++
+- Unreal Engine 5
+- Unity
 
-Also, I am developing some projects related to E-commerce websites, which you can check out in my workspaces. See you soon with new computer languages here... bye! 👋
+My goal is to develop games, and I'm particularly excited about diving into Unreal Engine 5 and Unity. Wish me luck! 😀
+
+## Projects
+
+I've been actively working on various projects, including:
+
+- [Todo-Application](link-to-todo-app) - JavaScript
+- [react-noteapp-website](link-to-react-noteapp) - JavaScript
+- [react-router-dom-project](link-to-react-router-dom) - JavaScript
+- [Mp3-and-Mp4-Player](link-to-mp3-mp4-player) - JavaScript
+- [Responsive-EstateWebsite-BootStrap](link-to-responsive-estate-website) - HTML
+- [E-Commerce-Website](link-to-e-commerce-website) - HTML
+
+Feel free to check them out in my repositories!
+
+## What's Next?
+
+I'm on a journey to master new languages and technologies, with a particular focus on game development. Stay tuned for monthly updates in this README as I continue to share my progress and experiences. See you soon with new adventures in coding! 👋
