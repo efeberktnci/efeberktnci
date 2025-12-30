@@ -15,6 +15,7 @@ But wait, there's more! Future plans include crafting clones of social media pla
 - TypeScript
 - React
 - React Native
+- C++
   
 
 ## My Interests
