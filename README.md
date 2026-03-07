@@ -5,7 +5,7 @@ Computer Science student exploring different areas of computing including web de
 🛠 Technologies & Tools
 
 HTML • CSS • JavaScript • Bootstrap • SQL • MySQL • Python
-REST APIs • AJAX • Wireshark • Shodan • Cisco Networking
+REST APIs • AJAX • Wireshark • Cisco Networking • Cybersecurity
 
 💻 Web Development
 
@@ -27,9 +27,11 @@ I gained practical experience using Cisco networking technologies, designing and
 
 One of my projects involved designing a network architecture for a simulated company environment, establishing routing, connectivity, and communication between different network segments.
 
-🤖 Artificial Intelligence
+🤖 Artificial Intelligence & Machine Learning
 
-My studies also include Artificial Intelligence and Machine Learning concepts using Python, where I explore algorithmic thinking, data-driven systems, and foundational intelligent system concepts.
+I recently started studying Artificial Intelligence and Machine Learning as part of my current academic coursework. Through these courses, I am beginning to explore foundational concepts such as algorithmic thinking, data-driven systems, and intelligent problem-solving using Python.
+
+Although I am still at an early stage in this field, I am actively learning the fundamentals and experimenting with small projects and exercises to better understand how intelligent systems and machine learning models work in practice.
 
 🚀 Continuous Learning
 
