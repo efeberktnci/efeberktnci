@@ -37,6 +37,6 @@ Although I am still at an early stage in this field, I am actively learning the 
 
 I am currently expanding my knowledge in:
 
-Functional Programming • Artificial Intelligence • Machine Learning • IT Risk Management • Cloud-Oriented Web Applications
+Functional Programming • Artificial Intelligence • Machine Learning • IT Risk Management 
 
 My GitHub repositories reflect my learning process across these areas and document experiments, academic projects, and personal explorations in modern computing.
