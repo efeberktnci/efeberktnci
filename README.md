@@ -4,8 +4,7 @@ Computer Science student exploring different areas of computing including web de
 
 🛠 Technologies & Tools
 
-HTML • CSS • JavaScript • Bootstrap • SQL • MySQL • Python
-REST APIs • AJAX • Wireshark • Cisco Networking • Cybersecurity
+HTML • CSS • JavaScript • Bootstrap • SQL • MySQL • Python • REST APIs • AJAX • Wireshark • Cisco Networking • Cybersecurity
 
 💻 Web Development
 
