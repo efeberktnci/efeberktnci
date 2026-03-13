@@ -74,27 +74,6 @@ I am currently expanding my knowledge in:
 
 **Functional Programming • Artificial Intelligence • Machine Learning • IT Risk Management**
 
-My GitHub repositories reflect my learning process across these areas and document experiments, academic projects, and personal explorations in modern computing.
-
-## 📌 Featured Projects
-
-### 🐳 Dockerized Chat App
-A fully containerized real-time chat application built with React, Node.js/Express, MongoDB, Kafka, WebSockets, and Docker Compose. This project helped me better understand real-time communication, distributed components, and modern multi-service application structure.
-
-### 🔐 Lab Spring Boot
-A Spring Boot web security project focused on authentication, authorization, RBAC, secure CRUD operations, testing, CI/CD, and defensive security practices. It reflects my growing interest in secure software development and modern backend security concepts.
-
-### 🌍 LinguaLeap
-A Duolingo-like language learning project that combines gamified product logic with a modern learning experience. It includes concepts such as user progression, daily goals, leaderboard systems, and structured lesson flows.
-
-### 🏨 Hotel Booking and Management Platform
-A full-featured PHP hotel booking system with both guest-facing functionality and an admin panel. The project includes reservation workflows, room management, settings management, and database-driven operations.
-
-### 🛰️ Efeberk-Net-Scanner
-A Python Flask-based network scanning project focused on rapid TCP port scanning, hostname resolution, and scan-history logging. It reflects my interest in applied cybersecurity and practical networking tools.
-
-### 🎮 Skeleton Clash TD
-A tower defence game project with a custom skeleton theme. This project reflects my interest in experimenting with gameplay systems and interactive software beyond traditional web applications.
 
 ## 📊 GitHub Stats
 
