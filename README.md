@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I'm Efeberk Tancı</h1>
-<h3 align="center">Computer Science Student | English Teacher | Web Development | Cybersecurity | Networking | AI</h3>
-
-## 👋 About Me
+##  About Me
 
 I am a Computer Science student and English teacher exploring different areas of computing including web development, cybersecurity, networking, and artificial intelligence. I enjoy understanding how different parts of modern software systems connect together, from user-facing web interfaces to backend systems, networks, infrastructure, and intelligent applications.
 
