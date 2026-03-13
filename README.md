@@ -78,20 +78,7 @@ I am currently expanding my knowledge in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=efeberktnci&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efeberktnci&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔗 Connect with Me
 
-<p align="center">
-  <a href="mailto:your-email-here">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/efeberktnci">
-    <img src="https://img.shields.io/badge/GitHub-efeberktnci-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-here/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
