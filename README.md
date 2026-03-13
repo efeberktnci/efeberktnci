@@ -9,6 +9,7 @@ My GitHub reflects both my academic progress and my personal interest in buildin
 ## 🛠 Technologies & Tools
 
 <p align="center">
+  
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -21,6 +22,7 @@ My GitHub reflects both my academic progress and my personal interest in buildin
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/AJAX-00599C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  
 </p>
 
 ## 💻 Web Development
