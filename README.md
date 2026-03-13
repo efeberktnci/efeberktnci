@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Efeberk Tancı</h1>
-<h3 align="center">Computer Science Student | English Teacher | Web Development • Cybersecurity • Networking • AI</h3>
+<h3 align="center">Computer Science Student | English Teacher | Web Development | Cybersecurity | Networking | AI</h3>
 
 <p align="center">
   I explore modern computing through web development, cybersecurity, networking, and intelligent systems.
