@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email-here">
+  <a href="mailto:efeber">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/efeberktnci">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-here/">
+  <a href="https://www.linkedin.com/in/efeberktnci/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
