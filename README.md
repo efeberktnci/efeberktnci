@@ -5,7 +5,7 @@
   I explore modern computing through web development, cybersecurity, networking, and intelligent systems.
 </p>
 
-## 🚀 About Me
+## 👋 About Me
 
 I am a Computer Science student and English teacher exploring different areas of computing including web development, cybersecurity, networking, and artificial intelligence. I enjoy understanding how different parts of modern software systems connect together, from user-facing web interfaces to backend systems, networks, infrastructure, and intelligent applications.
 
