@@ -4,19 +4,6 @@
 <p align="center">
   I explore modern computing through web development, cybersecurity, networking, and intelligent systems.
 </p>
-
-<p align="center">
-  <a href="mailto:your-email-here">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/efeberktnci">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-here/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ## 🚀 About Me
 
 I am a Computer Science student and English teacher exploring different areas of computing including web development, cybersecurity, networking, and artificial intelligence. I enjoy understanding how different parts of modern software systems connect together, from user-facing web interfaces to backend systems, networks, infrastructure, and intelligent applications.
