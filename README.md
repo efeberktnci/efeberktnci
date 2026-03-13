@@ -1,41 +1,85 @@
-Hey there, I'm Efeberk Tancı 👋
+# Hey there, I'm Efeberk Tancı 👋
 
-Computer Science student exploring different areas of computing including web development, cybersecurity, networking, and artificial intelligence. I enjoy understanding how different parts of modern software systems connect together, from user-facing web interfaces to networks, infrastructure, and intelligent systems.
+Computer Science student and English teacher with a growing interest in **web development, cybersecurity, networking, and artificial intelligence**.
 
-🛠 Technologies & Tools
+My background in teaching has helped me develop strong communication, explanation, and problem-solving skills, while my studies in computer science continue to expand my technical foundation across modern software systems. I enjoy understanding how different parts of technology connect together — from user-facing web applications to backend logic, networks, infrastructure, and intelligent systems.
 
-HTML • CSS • Python • Bootstrap • SQL • MySQL • Javascript • REST APIs • Cisco Networking • Wireshark • AJAX • Cybersecurity
+I use GitHub as a space to document my learning journey through academic projects, personal experiments, and hands-on development across multiple areas of computing.
 
-💻 Web Development
+---
 
-I have built responsive and dynamic web applications using HTML, CSS, JavaScript, Bootstrap, and SQL/MySQL. Through academic projects and coursework, I implemented REST API communication, HTTP methods, and AJAX-based dynamic updates, allowing web applications to exchange data with backend systems and update content without refreshing pages.
+## 🛠 Technologies & Tools
 
-My work also includes database-driven applications and CRUD operations, helping me understand how web interfaces interact with backend services and structured databases.
+**Languages & Core Technologies**  
+HTML • CSS • JavaScript • TypeScript • Python • PHP • Java • SQL • MySQL
 
-🔐 Cybersecurity & Network Analysis
+**Web Development**  
+Bootstrap • REST APIs • AJAX • CRUD Operations • Responsive Design
 
-I developed a strong interest in cybersecurity and network technologies, where I explored how real-world systems behave on the internet.
+**Cybersecurity & Networking**  
+Wireshark • Cisco Networking • Network Analysis • Cybersecurity Fundamentals
 
-Using Wireshark, I analyzed network traffic, inspected packets, and studied protocol behavior to better understand how data moves across networks.
+**Currently Exploring**  
+Artificial Intelligence • Machine Learning • Functional Programming • IT Risk Management
 
-I also used Shodan and similar reconnaissance platforms to explore publicly exposed devices and services on the internet. Through independent experiments and small research-oriented projects, I identified several security misconfigurations and analyzed potential vulnerabilities in exposed systems, strengthening my understanding of real-world cybersecurity risks.
+---
 
-🌐 Networking
+## 💻 Web Development
 
-I gained practical experience using Cisco networking technologies, designing and configuring network topologies and simulating company-style infrastructure environments.
+I have built responsive and dynamic web applications using **HTML, CSS, JavaScript, Bootstrap, PHP, and SQL/MySQL**. Through academic projects and practical coursework, I worked with **REST API communication, HTTP methods, AJAX-based updates, and database-driven systems**, helping me understand how modern web applications interact with backend services and structured data.
 
-One of my projects involved designing a network architecture for a simulated company environment, establishing routing, connectivity, and communication between different network segments.
+My projects also include **CRUD-based systems, admin panels, booking workflows, and real-time communication features**, allowing me to gain hands-on experience with both user-facing interfaces and backend logic.
 
-🤖 Artificial Intelligence & Machine Learning
+---
 
-I recently started studying Artificial Intelligence and Machine Learning as part of my current academic coursework. Through these courses, I am beginning to explore foundational concepts such as algorithmic thinking, data-driven systems, and intelligent problem-solving using Python.
+## 🔐 Cybersecurity & Network Analysis
 
-Although I am still at an early stage in this field, I am actively learning the fundamentals and experimenting with small projects and exercises to better understand how intelligent systems and machine learning models work in practice.
+I developed a strong interest in **cybersecurity and network technologies**, especially in understanding how real-world systems behave on the internet.
 
-🚀 Continuous Learning
+Using **Wireshark**, I analyzed network traffic, inspected packets, and studied protocol behavior to better understand how data moves across networks. I also explored publicly exposed services and configurations through research-oriented experiments, which helped me better understand **system exposure, security misconfigurations, and practical cybersecurity risks**.
+
+My goal in this area is to continue building a stronger foundation in secure systems, traffic analysis, and applied cybersecurity practices.
+
+---
+
+## 🌐 Networking
+
+I gained practical experience using **Cisco networking technologies**, where I designed and configured network topologies and simulated company-style infrastructure environments.
+
+One of my projects involved designing a network architecture for a simulated company, establishing **routing, connectivity, and communication between different network segments**. These experiences improved my understanding of how infrastructure supports modern software systems beyond the application layer.
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+I am currently studying **Artificial Intelligence and Machine Learning** as part of my academic journey. At this stage, I am building my understanding of **algorithmic thinking, data-driven systems, and intelligent problem-solving with Python**.
+
+Although I am still at an early stage in this field, I actively learn through coursework, small projects, and experimentation, and I am interested in seeing how intelligent systems can be combined with real-world software development.
+
+---
+
+## 🚀 Continuous Learning
 
 I am currently expanding my knowledge in:
 
-Functional Programming • Artificial Intelligence • Machine Learning • IT Risk Management 
+**Functional Programming • Artificial Intelligence • Machine Learning • IT Risk Management**
 
-My GitHub repositories reflect my learning process across these areas and document experiments, academic projects, and personal explorations in modern computing.
+My repositories reflect a combination of **academic work, personal exploration, and practical development**, showing how I approach learning across multiple technical areas.
+
+---
+
+## 📌 Featured Project Areas
+
+- **Web Applications** — dynamic and database-driven systems
+- **Secure Software Development** — authentication, authorization, and web security practices
+- **Networking Projects** — topology design, routing, and protocol understanding
+- **Cybersecurity Tools** — traffic inspection, scanning, and security-oriented experimentation
+- **Modern Software Systems** — real-time communication, APIs, and containerized applications
+
+---
+
+## 🎯 About My Approach
+
+I enjoy building projects that help me connect theory with practice. Whether I am working on a web system, a network-focused project, or a security-related tool, I try to understand not only how to make something work, but also **how and why the system behaves the way it does**.
+
+As both a **student and a teacher**, I value learning deeply, explaining clearly, and improving consistently.
