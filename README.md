@@ -75,10 +75,4 @@ I am currently expanding my knowledge in:
 **Functional Programming • Artificial Intelligence • Machine Learning • IT Risk Management**
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efeberktnci&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 
