@@ -24,5 +24,3 @@ My GitHub reflects both my academic progress and my personal interest in buildin
   <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   
 </p>
-
-**Functional Programming • Artificial Intelligence • Machine Learning • IT Risk Management**
