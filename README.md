@@ -22,5 +22,6 @@ My GitHub reflects both my academic progress and my personal interest in buildin
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/AJAX-00599C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   
 </p>
