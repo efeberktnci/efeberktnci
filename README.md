@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=760&lines=Security-focused+CS+Student;Cybersecurity+%26+AppSec+Focus;Hands-on+Labs+%2B+Write-ups;Burp+Suite+Practice;Road+to+Junior+AppSec)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efeberktnci/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/efeberktnci)
 
 </div>
 
