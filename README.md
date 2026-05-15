@@ -1,27 +1,32 @@
-<h1 align="center">👋 Hi, I'm Efeberk Tancı</h1>
+<div align="center">
 
-I am a Computer Science student and English teacher exploring different areas of computing including web development, cybersecurity, networking, and artificial intelligence. I enjoy understanding how different parts of modern software systems connect together, from user-facing web interfaces to backend systems, networks, infrastructure, and intelligent applications.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,50:3b82f6,100:1d4ed8&height=170&section=header&text=Efeberk%20Tanci&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20AppSec%20%2F%20Product%20Security&descAlignY=60&descSize=16)
 
-Alongside my academic journey, working as an English teacher has helped me develop strong communication skills, structured thinking, and the ability to explain complex ideas clearly. I believe these skills also strengthen the way I approach technology, not only by building systems, but also by understanding and expressing how they work.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=760&lines=Security-focused+CS+Student;Cybersecurity+%26+AppSec+Focus;Hands-on+Labs+%2B+Write-ups;Burp+Suite+Practice;Road+to+Junior+AppSec)](https://git.io/typing-svg)
 
-My GitHub reflects both my academic progress and my personal interest in building, testing, and exploring modern computing systems across multiple technical areas.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efeberktnci/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/efeberktnci)
 
-## 🛠 Technologies & Tools
+</div>
 
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/AJAX-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  
-</p>
+## Tech Stack
+
+### Languages & Core
+![Languages & Core](https://skillicons.dev/icons?i=python,js,html,css&theme=dark&perline=10)
+
+### Web & Frameworks
+![Web & Frameworks](https://skillicons.dev/icons?i=bootstrap,react&theme=dark&perline=10)
+
+### Databases
+![Databases](https://skillicons.dev/icons?i=mysql&theme=dark&perline=10)
+
+### AI / Data
+![AI / Data](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn&theme=dark)
+
+![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark&perline=1)
+
+### Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark&perline=10)
+
+### Cybersecurity
+![Cybersecurity](https://go-skill-icons.vercel.app/api/icons?i=burpsuite,wireshark&theme=dark)
