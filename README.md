@@ -6,26 +6,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efeberktnci/)
 
-</div>
-
-## Tech Stack
-
-### Languages & Core
-![Languages & Core](https://skillicons.dev/icons?i=python,js,html,css&theme=dark&perline=10)
-
-### Web & Frameworks
-![Web & Frameworks](https://skillicons.dev/icons?i=bootstrap,react&theme=dark&perline=10)
-
-### Databases
-![Databases](https://skillicons.dev/icons?i=mysql&theme=dark&perline=10)
-
-### AI / Data
-![AI / Data](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn&theme=dark)
-
-![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark&perline=1)
-
-### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark&perline=10)
-
-### Cybersecurity
-![Cybersecurity](https://go-skill-icons.vercel.app/api/icons?i=burpsuite,wireshark&theme=dark)
